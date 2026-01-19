@@ -43,13 +43,6 @@ This project is built using standard web technologies:
 2. Open index.html in your browser.
 
 3. Customize the sidebar by editing index.html, style.css, or script.js.
-🖼️ Preview
-
-(Add a screenshot of the sidebar here for visual reference.)
-
-<p align="center">
-  <img src="preview.png" alt="Sidebar Menu Preview" width="600">
-</p>
 
 🛠️ Customization
 
